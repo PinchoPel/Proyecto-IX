@@ -1,0 +1,2540 @@
+[
+  {
+    "image": "https://www.ikea.com/es/es/images/products/mittled-tira-iluminacion-led-encimera-regulacion-intensidad-luminosa-blanco__0869936_pe781531_s5.jpg?f=xxs",
+    "name": "MITTLED",
+    "description": "Tira iluminación LED encimera",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-aplique-pared-vertical-blanco__0556059_pe660485_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Aplique de pared vertical",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kapplake-foco-led-blanco__1118637_pe878605_s5.jpg?f=xxs",
+    "name": "KAPPLAKE",
+    "description": "Foco LED",
+    "price": 3.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-lampara-aplique-fija-pared-blanco__0556021_pe660379_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Lámpara aplique fija de pared",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/musik-aplique-instalacion-fija-cromado__0618787_pe688646_s5.jpg?f=xxs",
+    "name": "MUSIK",
+    "description": "Aplique instalación fija",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/barlast-lampara-led-techo-pared-blanco__0772861_pe756185_s5.jpg?f=xxs",
+    "name": "BARLAST",
+    "description": "Lámpara LED para techo/pared",
+    "price": 7.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tvarhand-lampara-mesa-negro-bambu__1027181_pe834780_s5.jpg?f=xxs",
+    "name": "TVÄRHAND",
+    "description": "Lámpara de mesa",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ytberg-iluminacion-armario-blanco-regulacion-intensidad-luminosa__1051207_pe845082_s5.jpg?f=xxs",
+    "name": "YTBERG",
+    "description": "Iluminación de armario",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/blasverk-lampara-mesa-beige__1150245_pe884435_s5.jpg?f=xxs",
+    "name": "BLÅSVERK",
+    "description": "Lámpara de mesa",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/stoftmoln-lampara-led-techo-pared-inteligente-regulac-lumin-inalambr-blanco-calido-blanco__1014412_pe829650_s5.jpg?f=xxs",
+    "name": "STOFTMOLN",
+    "description": "Lámpara LED para techo/pared",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ebbared-foco-pinza-pilas-blanco__0367766_pe549422_s5.jpg?f=xxs",
+    "name": "EBBARED",
+    "description": "Foco pinza",
+    "price": 4.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/barlast-lampara-pie-negro-blanco__0957676_pe805130_s5.jpg?f=xxs",
+    "name": "BARLAST",
+    "description": "Lámpara de pie",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/vathult-lampara-led-armario-espejo-color-aluminio__1008969_pe827396_s5.jpg?f=xxs",
+    "name": "VÅTHULT",
+    "description": "Lámpara LED para armario o espejo",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/mittled-foco-led-regulacion-intensidad-luminosa-blanco__0869946_pe781540_s5.jpg?f=xxs",
+    "name": "MITTLED",
+    "description": "Foco LED",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/gronsprot-aplique-pared-vertical-exterior-negro__1169389_pe892419_s5.jpg?f=xxs",
+    "name": "GRÖNSPRÖT",
+    "description": "Aplique de pared vertical",
+    "price": 24.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/lauters-lampara-pie-fresno-blanco__0663863_pe712536_s5.jpg?f=xxs",
+    "name": "LAUTERS",
+    "description": "Lámpara de pie",
+    "price": 59.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/vattensten-tira-iluminacion-led-blanco__1107921_pe869230_s5.jpg?f=xxs",
+    "name": "VATTENSTEN",
+    "description": "Tira iluminación LED",
+    "price": 3.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/silverglans-tira-iluminacion-led-bano-regulacion-intensidad-luminosa-blanco__0869954_pe781547_s5.jpg?f=xxs",
+    "name": "SILVERGLANS",
+    "description": "Tira iluminación LED baño",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/rolfstorp-luz-led-regulacion-intensidad-luminosa-blanco__1055094_pe847930_s5.jpg?f=xxs",
+    "name": "ROLFSTORP",
+    "description": "Luz LED",
+    "price": 8.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tarnaby-lampara-mesa-regulacion-intensidad-luminosa-beige__1188960_pe899632_s5.jpg?f=xxs",
+    "name": "TÄRNABY",
+    "description": "Lámpara de mesa",
+    "price": 15
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/manalg-aplique-instalacion-fija-junco-a-mano__0993336_pe820495_s5.jpg?f=xxs",
+    "name": "MÅNALG",
+    "description": "Aplique instalación fija",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tertial-lampara-flexo-trabajo-blanco__0609308_pe684439_s5.jpg?f=xxs",
+    "name": "TERTIAL",
+    "description": "Lámpara flexo de trabajo",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/fado-lampara-mesa-blanco__0606976_pe682645_s5.jpg?f=xxs",
+    "name": "FADO",
+    "description": "Lámpara de mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-lampara-led-techo-blanco__0607738_pe683167_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Lámpara LED de techo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/melodi-lampara-techo-blanco__0545277_pe655373_s5.jpg?f=xxs",
+    "name": "MELODI",
+    "description": "Lámpara de techo",
+    "price": 4.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/rasegel-lampara-mesa__0783967_pe761589_s5.jpg?f=xxs",
+    "name": "RÅSEGEL",
+    "description": "Lámpara de mesa",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ranarp-foco-pared-con-pinza-hueso__0606605_pe682409_s5.jpg?f=xxs",
+    "name": "RANARP",
+    "description": "Foco de pared/con pinza",
+    "price": 24.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/lampan-lampara-mesa-blanco__0459937_pe606395_s5.jpg?f=xxs",
+    "name": "LAMPAN",
+    "description": "Lámpara de mesa",
+    "price": 4.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/navlinge-foco-pinza-blanco__0710474_pe727575_s5.jpg?f=xxs",
+    "name": "NÄVLINGE",
+    "description": "Foco pinza",
+    "price": 16.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/sinnerlig-lampara-techo-bambu-a-mano__1101927_pe866502_s5.jpg?f=xxs",
+    "name": "SINNERLIG",
+    "description": "Lámpara de techo",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tokabo-lampara-mesa-vidrio-blanco-opalo__0714489_pe730101_s5.jpg?f=xxs",
+    "name": "TOKABO",
+    "description": "Lámpara de mesa",
+    "price": 12.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/stotta-iluminacion-led-armario-sensor-pilas-blanco__0637303_pe698226_s5.jpg?f=xxs",
+    "name": "STÖTTA",
+    "description": "Iluminación LED armario sensor",
+    "price": 12.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/okensand-lampara-pie-haya-blanco__1187892_pe899535_s5.jpg?f=xxs",
+    "name": "ÖKENSAND",
+    "description": "Lámpara de pie",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/frihult-lampara-techo-pared-col-acinox__0689509_pe723006_s5.jpg?f=xxs",
+    "name": "FRIHULT",
+    "description": "Lámpara de techo/pared",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ikea-ps-2014-lampara-techo-blanco__0613030_pe686121_s5.jpg?f=xxs",
+    "name": "IKEA PS 2014",
+    "description": "Lámpara de techo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/dacksbat-lampara-pared-led-instalacion-fija-exterior-negro__1198591_pe904131_s5.jpg?f=xxs",
+    "name": "DÄCKSBÅT",
+    "description": "Lámpara pared LED instalación fija",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/vattensten-tira-iluminacion-led-multicolor__1107965_pe869239_s5.jpg?f=xxs",
+    "name": "VATTENSTEN",
+    "description": "Tira iluminación LED",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ledsjo-lampara-pared-acero-inoxidable__0582357_pe670678_s5.jpg?f=xxs",
+    "name": "LEDSJÖ",
+    "description": "Lámpara pared",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/utsund-guirnalda-luminosa-led-12-luces-exterior-a-pilas-negro__0634463_pe696488_s5.jpg?f=xxs",
+    "name": "UTSUND",
+    "description": "Guirnalda luminosa LED 12 luces",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/svallet-lampara-flexo-trabajo-gris-oscuro-blanco__0703502_pe724751_s5.jpg?f=xxs",
+    "name": "SVALLET",
+    "description": "Lámpara flexo de trabajo",
+    "price": 2.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/sunneby-lunnom-lampara-techo-bombilla-negro-vidrio-incoloro__1128153_pe876437_s5.jpg?f=xxs",
+    "name": "SUNNEBY / LUNNOM",
+    "description": "Lámpara techo + bombilla",
+    "price": 14.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-lampara-pie-3-focos-blanco__0810835_pe771431_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Lámpara de pie 3 focos",
+    "price": 44.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/navlinge-lampara-trabajo-blanco__0709828_pe727111_s5.jpg?f=xxs",
+    "name": "NÄVLINGE",
+    "description": "Lámpara trabajo",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kappeland-hemma-lampara-techo-ratan-blanco__1200470_pe904979_s5.jpg?f=xxs",
+    "name": "KAPPELAND / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 34.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kabomba-lampara-pared-regulacion-intensidad-luminosa-mate-negro__0990238_pe818810_s5.jpg?f=xxs",
+    "name": "KABOMBA",
+    "description": "Lámpara pared",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skydrag-iluminacion-led-cocinas-regulacion-intensidad-luminosa-blanco__0812910_pe772205_s5.jpg?f=xxs",
+    "name": "SKYDRAG",
+    "description": "Iluminación LED para cocinas",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tvardrag-iluminacion-armario-negro-regulacion-intensidad-luminosa__1051158_pe845030_s5.jpg?f=xxs",
+    "name": "TVÄRDRAG",
+    "description": "Iluminación de armario",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skaftet-base-lampara-pie-negro__0760537_pe750808_s5.jpg?f=xxs",
+    "name": "SKAFTET",
+    "description": "Base para lámpara de pie",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ingared-lampara-mesa-gris__0367757_pe549430_s5.jpg?f=xxs",
+    "name": "INGARED",
+    "description": "Lámpara de mesa",
+    "price": 11.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skurup-lampara-techo-negro__0604110_pe681110_s5.jpg?f=xxs",
+    "name": "SKURUP",
+    "description": "Lámpara de techo",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/havsdun-lampara-pared-regulacion-intensidad-luminosa-blanco-vidrio-esmerilado-blanco__1034603_pe837795_s5.jpg?f=xxs",
+    "name": "HAVSDUN",
+    "description": "Lámpara pared",
+    "price": 44.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/barlast-lampara-mesa-negro-blanco__1032422_pe836908_s5.jpg?f=xxs",
+    "name": "BARLAST",
+    "description": "Lámpara de mesa",
+    "price": 4.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/forsa-lampara-flexo-trabajo-blanco__0687071_pe721952_s5.jpg?f=xxs",
+    "name": "FORSÅ",
+    "description": "Lámpara flexo de trabajo",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/harslinga-lampara-pie-negro__1167712_pe891682_s5.jpg?f=xxs",
+    "name": "HÅRSLINGA",
+    "description": "Lámpara de pie",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tvarfot-lampara-mesa-negro-blanco__0772757_pe756087_s5.jpg?f=xxs",
+    "name": "TVÄRFOT",
+    "description": "Lámpara de mesa",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/gronsprot-lampara-pared-doble-cableada-exterior-negro__1169408_pe892449_s5.jpg?f=xxs",
+    "name": "GRÖNSPRÖT",
+    "description": "Lámpara pared doble cableada",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/molnskikt-sunneby-lampara-techo-negro-amarillo-oscuro-terciopelo__1108006_pe869260_s5.jpg?f=xxs",
+    "name": "MOLNSKIKT / SUNNEBY",
+    "description": "Lámpara de techo",
+    "price": 27.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kabomba-lampara-led-pared-con-espejo-regulacion-intensidad-luminosa-mate-negro__1013471_pe829208_s5.jpg?f=xxs",
+    "name": "KABOMBA",
+    "description": "Lámpara LED de pared con espejo",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/arstid-lampara-mesa-laton-blanco__0609329_pe684454_s5.jpg?f=xxs",
+    "name": "ÅRSTID",
+    "description": "Lámpara de mesa",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/grindfallet-lampara-techo-negro__1008888_pe827365_s5.jpg?f=xxs",
+    "name": "GRINDFALLET",
+    "description": "Lámpara de techo",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ringsta-skaftet-lampara-pie-blanco-laton__0856894_pe780850_s5.jpg?f=xxs",
+    "name": "RINGSTA / SKAFTET",
+    "description": "Lámpara de pie",
+    "price": 49.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ytberg-tradfri-kit-iluminacion-blanco__1231670_pe916017_s5.jpg?f=xxs",
+    "name": "YTBERG / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 91.93
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/vindkast-lampara-techo-blanco__0805857_pe769703_s5.jpg?f=xxs",
+    "name": "VINDKAST",
+    "description": "Lámpara de techo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/upplyst-lampara-pared-nube-blanco__0716259_pe730767_s5.jpg?f=xxs",
+    "name": "UPPLYST",
+    "description": "Lámpara pared",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kornsno-luz-noche-led-blanco-conejo-pilas__0783197_pe761501_s5.jpg?f=xxs",
+    "name": "KORNSNÖ",
+    "description": "Luz noche LED",
+    "price": 7.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tomelilla-lampara-mesa-niquelado-blanco__0928818_pe789977_s5.jpg?f=xxs",
+    "name": "TOMELILLA",
+    "description": "Lámpara de mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/vickleby-lampara-pie-blanco-a-mano__0953644_pe802864_s5.jpg?f=xxs",
+    "name": "VICKLEBY",
+    "description": "Lámpara de pie",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ledfyr-guirnalda-luminosa-led-12-luces-interior-a-pilas-gris-plata__0597219_pe677038_s5.jpg?f=xxs",
+    "name": "LEDFYR",
+    "description": "Guirnalda luminosa LED 12 luces",
+    "price": 3.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/navlinge-lampara-pared-foco-con-pinza-blanco__0709834_pe727113_s5.jpg?f=xxs",
+    "name": "NÄVLINGE",
+    "description": "Lámpara de pared/foco con pinza",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skydrag-iluminacion-led-cocinas-regulacion-intensidad-luminosa-antracita__0815324_pe772854_s5.jpg?f=xxs",
+    "name": "SKYDRAG",
+    "description": "Iluminación LED para cocinas",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/gravacka-molnart-lampara-techo-bombilla-beige-vidrio-transparente-gris__1096954_pe864625_s5.jpg?f=xxs",
+    "name": "GRÅVACKA / MOLNART",
+    "description": "Lámpara techo + bombilla",
+    "price": 18.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solklint-lampara-mesa-laton-vidrio-transparente-gris__0842257_pe781832_s5.jpg?f=xxs",
+    "name": "SOLKLINT",
+    "description": "Lámpara de mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ringsta-skaftet-lampara-pie-blanco-niquelado__0856897_pe780852_s5.jpg?f=xxs",
+    "name": "RINGSTA / SKAFTET",
+    "description": "Lámpara de pie",
+    "price": 49.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/gottorp-lampara-mesa-bambu__0713909_pe729837_s5.jpg?f=xxs",
+    "name": "GOTTORP",
+    "description": "Lámpara de mesa",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/frihult-lampara-pared-col-acinox__0744299_pe743210_s5.jpg?f=xxs",
+    "name": "FRIHULT",
+    "description": "Lámpara de pared",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/frihult-lampara-techo-negro__0689511_pe723008_s5.jpg?f=xxs",
+    "name": "FRIHULT",
+    "description": "Lámpara techo",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/fjallmil-hemma-lampara-techo-blanco-blanco__1202214_pe905822_s5.jpg?f=xxs",
+    "name": "FJÄLLMIL / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 6.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/symfonisk-lampara-altavoz-wifi-pantallavidrio-blanco-negro__1088987_pe861346_s5.jpg?f=xxs",
+    "name": "SYMFONISK",
+    "description": "Lámpara altavoz wifi pantallavidrio",
+    "price": 213.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tvardrag-tradfri-kit-iluminacion-negro__1231674_pe916019_s5.jpg?f=xxs",
+    "name": "TVÄRDRAG / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 111.93
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/silverglans-rodret-kit-iluminacion-blanco__1219457_pe913404_s5.jpg?f=xxs",
+    "name": "SILVERGLANS / RODRET",
+    "description": "Kit iluminación",
+    "price": 51.97
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/storslinga-lampara-8-brazos-led-negro-blanco__0982258_pe815591_s5.jpg?f=xxs",
+    "name": "STORSLINGA",
+    "description": "Lámpara 8 brazos LED",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/silverglans-tradfri-kit-iluminacion-antracita-blanco__1104001_pe867462_s5.jpg?f=xxs",
+    "name": "SILVERGLANS / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 94.94
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skurup-lampara-techo-negro__0658739_pe710393_s5.jpg?f=xxs",
+    "name": "SKURUP",
+    "description": "Lámpara de techo",
+    "price": 13.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/harmoja-lampara-arana-6-brazos-acero-inoxidable-cepillado__1190918_pe900352_s5.jpg?f=xxs",
+    "name": "HÅRMÖJA",
+    "description": "Lámpara de araña de 6 brazos",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ytberg-tradfri-kit-iluminacion-blanco__1267767_pe928481_s5.jpg?f=xxs",
+    "name": "YTBERG / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 61.95
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skaftet-base-lampara-pie-color-bronce__0663952_pe712558_s5.jpg?f=xxs",
+    "name": "SKAFTET",
+    "description": "Base para lámpara de pie",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/harslinga-lunnom-lampara-pie-bomb-negro-vidrio-incoloro__1180992_pe896524_s5.jpg?f=xxs",
+    "name": "HÅRSLINGA / LUNNOM",
+    "description": "Lámpara pie +bomb",
+    "price": 26.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tvardrag-tradfri-kit-iluminacion-negro__1267804_pe928491_s5.jpg?f=xxs",
+    "name": "TVÄRDRAG / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 71.95
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/silverglans-tradfri-kit-iluminacion-blanco__1104003_pe867464_s5.jpg?f=xxs",
+    "name": "SILVERGLANS / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 94.94
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/mittled-iluminacion-led-cajon-con-sensor-regulacion-intensidad-luminosa-blanco__0933846_pe792242_s5.jpg?f=xxs",
+    "name": "MITTLED",
+    "description": "Iluminación LED cajón con sensor",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skydrag-tradfri-kit-iluminacion-antracita__1234523_pe917172_s5.jpg?f=xxs",
+    "name": "SKYDRAG / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 61.95
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skydrag-tradfri-kit-iluminacion-antracita__1234519_pe917168_s5.jpg?f=xxs",
+    "name": "SKYDRAG / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 120.94
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skydrag-tradfri-kit-iluminacion-antracita__1234521_pe917170_s5.jpg?f=xxs",
+    "name": "SKYDRAG / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 110.94
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skydrag-tradfri-kit-iluminacion-antracita__1234517_pe917166_s5.jpg?f=xxs",
+    "name": "SKYDRAG / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 80.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/sunneby-molnart-lampara-techo-negro-globo-vidrio-transparente-gris__1079069_pe857403_s5.jpg?f=xxs",
+    "name": "SUNNEBY / MOLNART",
+    "description": "Lámpara de techo",
+    "price": 22.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/silverglans-rodret-kit-iluminacion-blanco__1250781_pe924011_s5.jpg?f=xxs",
+    "name": "SILVERGLANS / RODRET",
+    "description": "Kit iluminación",
+    "price": 76.95
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skydrag-tradfri-kit-iluminacion-antracita__1234515_pe917164_s5.jpg?f=xxs",
+    "name": "SKYDRAG / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 51.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/silverglans-rodret-kit-iluminacion-antracita__1250777_pe924010_s5.jpg?f=xxs",
+    "name": "SILVERGLANS / RODRET",
+    "description": "Kit iluminación",
+    "price": 71.95
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/symfonisk-lampara-altavoz-wifi-pantalla-tela-blanco-negro__1089023_pe861366_s5.jpg?f=xxs",
+    "name": "SYMFONISK",
+    "description": "Lámpara altavoz wifi pantalla tela",
+    "price": 198.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/frojda-guirnalda-led-40-bombillas-pilas-hoja-blanco__1088601_pe861255_s5.jpg?f=xxs",
+    "name": "FRÖJDA",
+    "description": "Guirnalda LED 40 bombillas",
+    "price": 7.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/harslinga-molnart-lampara-pie-bomb-negro-globo-vidrio-transparente-gris__1181007_pe896529_s5.jpg?f=xxs",
+    "name": "HÅRSLINGA / MOLNART",
+    "description": "Lámpara pie +bomb",
+    "price": 34.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/bave-riel-techo-5focos-blanco__0743225_pe742937_s5.jpg?f=xxs",
+    "name": "BÄVE",
+    "description": "Riel techo 5focos",
+    "price": 59.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/bjorkspirea-iluminacion-decorativa-led-color-bronce-forma-diamante__1088608_pe861259_s5.jpg?f=xxs",
+    "name": "BJÖRKSPIREA",
+    "description": "Iluminación decorativa LED",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-lampara-techo-con-4-focos-blanco__0607350_pe682899_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Lámpara de techo con 4 focos",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ormanas-tira-iluminacion-led-inteligente-regulac-lumin-inalambr-color-espectro-blanco__1209372_pe909169_s5.jpg?f=xxs",
+    "name": "ORMANÄS",
+    "description": "Tira iluminación LED",
+    "price": 34.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kolvatten-iluminacion-led-con-sensor-blanco-a-pilas__1327501_pe944485_s5.jpg?f=xxs",
+    "name": "KÖLVATTEN",
+    "description": "Iluminación LED con sensor",
+    "price": 12.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kolvatten-foco-led-blanco-a-pilas__1265628_pe927753_s5.jpg?f=xxs",
+    "name": "KÖLVATTEN",
+    "description": "Foco LED",
+    "price": 3.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-iluminacion-led-armario-sensor-regulacion-intensidad-luminosa-blanco__0967013_pe810010_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN",
+    "description": "Iluminación LED armario sensor",
+    "price": 12.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-lampara-pared-con-brazo-blanco__0556041_pe660482_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Lámpara de pared con brazo",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/flaskpost-led-iluminacion-p-arm-pared-cromado__1334592_pe946845_s5.jpg?f=xxs",
+    "name": "FLASKPOST",
+    "description": "LED iluminación p/arm pared",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/morkradd-lampara-noche-led-con-sensor-blanco__0546092_pe655892_s5.jpg?f=xxs",
+    "name": "MÖRKRÄDD",
+    "description": "Lámpara noche LED con sensor",
+    "price": 7.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/snoyra-guirnalda-led-40-bombillas-interior-a-pilas-gris-plata__0591714_pe674257_s5.jpg?f=xxs",
+    "name": "SNÖYRA",
+    "description": "Guirnalda LED 40 bombillas",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nosund-lampara-techo-abedul__1341880_pe948926_s5.jpg?f=xxs",
+    "name": "NÖSUND",
+    "description": "Lámpara de techo",
+    "price": 59.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/krusnate-lampara-techo-con-4-focos-blanco__1198150_pe903923_s5.jpg?f=xxs",
+    "name": "KRUSNATE",
+    "description": "Lámpara de techo con 4 focos",
+    "price": 12.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ranarp-lampara-techo-3-focos-negro__0549538_pe657758_s5.jpg?f=xxs",
+    "name": "RANARP",
+    "description": "Lámpara techo de 3 focos",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/obegransad-lampara-pared-negro__1115509_pe872110_s5.jpg?f=xxs",
+    "name": "OBEGRÄNSAD",
+    "description": "Lámpara pared",
+    "price": 99.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/lagergang-lampara-led-pantalla-regulacion-intensidad-luminosa-turquesa__1166865_pe891302_s5.jpg?f=xxs",
+    "name": "LAGERGÅNG",
+    "description": "Lámpara LED para pantalla",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-foco-techo-con-1-foco-blanco__0666493_pe713601_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Foco de techo con 1 foco",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solarvet-guirnalda-luminosa-led-24-luces-exterior-energia-solar-balon-blanco__0634551_pe696569_s5.jpg?f=xxs",
+    "name": "SOLARVET",
+    "description": "Guirnalda luminosa LED 24 luces",
+    "price": 24.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/rorkult-aplique-instalacion-fija-motivo-rayas-blanco-vidrio__1270111_pe929210_s5.jpg?f=xxs",
+    "name": "RORKULT",
+    "description": "Aplique instalación fija",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/backnate-hemma-lampara-techo-blanco__1367253_pe957290_s5.jpg?f=xxs",
+    "name": "BÄCKNATE / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 34.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/varmblixt-lampara-mesa-pared-led-naranja-vidrio-redondo__1116616_pe872535_s5.jpg?f=xxs",
+    "name": "VARMBLIXT",
+    "description": "Lámpara mesa/pared LED",
+    "price": 49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-lampara-techo-con-4-focos-antracita__0646789_pe704306_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Lámpara de techo con 4 focos",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tagarp-lampara-luz-indirecta-negro-blanco__0810840_pe771436_s5.jpg?f=xxs",
+    "name": "TÅGARP",
+    "description": "Lámpara luz indirecta",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/bunkeflo-lampara-techo-blanco-abedul__1008759_pe827313_s5.jpg?f=xxs",
+    "name": "BUNKEFLO",
+    "description": "Lámpara de techo",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/bave-riel-techo-3focos-blanco__0607328_pe682887_s5.jpg?f=xxs",
+    "name": "BÄVE",
+    "description": "Riel techo 3focos",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/jetstrom-panel-iluminacion-led-techo-inteligente-regulacion-intensidad-luminosa-espectro-blanco__1216583_pe912442_s5.jpg?f=xxs",
+    "name": "JETSTRÖM",
+    "description": "Panel iluminación LED de techo",
+    "price": 79.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strimsav-foco-led-blanco__1190622_pe900244_s5.jpg?f=xxs",
+    "name": "STRIMSÄV",
+    "description": "Foco LED",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/akterport-guirnalda-led-40-bombillas-pilas-mini-pompon-blanco-gris__0957901_pe805147_s5.jpg?f=xxs",
+    "name": "AKTERPORT",
+    "description": "Guirnalda LED 40 bombillas",
+    "price": 11.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/regolit-hemma-lampara-techo-blanco__1045608_pe842669_s5.jpg?f=xxs",
+    "name": "REGOLIT / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 6.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/regnskur-lampara-techo-blanco__1239874_pe919148_s5.jpg?f=xxs",
+    "name": "REGNSKUR",
+    "description": "Lámpara de techo",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-aplique-doble-blanco__0666566_pe713610_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Aplique doble",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/virrmo-lampara-led-techo-niquelado__0950976_pe800848_s5.jpg?f=xxs",
+    "name": "VIRRMO",
+    "description": "Lámpara LED de techo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/gronsprot-aplique-instalacion-fija-exterior-negro__1169415_pe892442_s5.jpg?f=xxs",
+    "name": "GRÖNSPRÖT",
+    "description": "Aplique instalación fija",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/storsegel-lampara-mesa-fresno-blanco__1285773_pe933400_s5.jpg?f=xxs",
+    "name": "STORSEGEL",
+    "description": "Lámpara de mesa",
+    "price": 8.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/trettioen-lampara-techo-blanco__1210668_pe909800_s5.jpg?f=xxs",
+    "name": "TRETTIOEN",
+    "description": "Lámpara de techo",
+    "price": 12.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/krusnate-lampara-techo-con-2-focos-blanco__1198149_pe903922_s5.jpg?f=xxs",
+    "name": "KRUSNATE",
+    "description": "Lámpara de techo con 2 focos",
+    "price": 4.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/rodflik-lampara-pie-lectura-verde-grisaceo__1232722_pe916583_s5.jpg?f=xxs",
+    "name": "RÖDFLIK",
+    "description": "Lámpara de pie/lectura",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/hogvind-lampara-mesa-niquelado-gris-vidrio__1300598_pe937151_s5.jpg?f=xxs",
+    "name": "HÖGVIND",
+    "description": "Lámpara de mesa",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/jetstrom-panel-iluminacion-led-pared-inteligente-regulacion-intensidad-luminosa-por-cable-color-espectro-blanco__1275106_pe930539_s5.jpg?f=xxs",
+    "name": "JETSTRÖM",
+    "description": "Panel iluminación LED de pared",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/byggkorn-lampara-pie-negro-blanco__1154344_pe886000_s5.jpg?f=xxs",
+    "name": "BYGGKORN",
+    "description": "Lámpara de pie",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/trindsno-lampara-pie-blanco-metal-chapa-abedul__1164308_pe902206_s5.jpg?f=xxs",
+    "name": "TRINDSNÖ",
+    "description": "Lámpara de pie",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/pilskott-lampara-techo-led-inteligente-negro__1077625_pe856954_s5.jpg?f=xxs",
+    "name": "PILSKOTT",
+    "description": "Lámpara techo LED",
+    "price": 99.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solskur-lampara-mesa-blanco-color-bronce__0780250_pe759848_s5.jpg?f=xxs",
+    "name": "SOLSKUR",
+    "description": "Lámpara mesa",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/saxhyttan-lampara-mesa-beige-negro__0984125_pe816201_s5.jpg?f=xxs",
+    "name": "SAXHYTTAN",
+    "description": "Lámpara de mesa",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-foco-techo-con-3-focos-blanco__0607344_pe682893_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Foco de techo con 3 focos",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/hogvind-lampara-techo-3-luces-niquelado-gris-vidrio__1045903_pe842765_s5.jpg?f=xxs",
+    "name": "HÖGVIND",
+    "description": "Lámpara techo 3 luces",
+    "price": 99.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solklint-lampara-techo-laton-vidrio-transparente-gris__0842293_pe778939_s5.jpg?f=xxs",
+    "name": "SOLKLINT",
+    "description": "Lámpara de techo",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/molgan-luz-led-blanco-a-pilas__0609826_pe684648_s5.jpg?f=xxs",
+    "name": "MOLGAN",
+    "description": "Luz LED",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tagvirke-foco-con-pinza-led-pilas-exterior-regulacion-intensidad-luminosa-negro__1156135_pe886924_s5.jpg?f=xxs",
+    "name": "TÅGVIRKE",
+    "description": "Foco con pinza LED",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ranarp-lampara-pie-de-lectura-negro__0606896_pe682604_s5.jpg?f=xxs",
+    "name": "RANARP",
+    "description": "Lámpara de pie/de lectura",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/lersta-lampara-pie-de-lectura-aluminio-efecto-cromado__0606034_pe681992_s5.jpg?f=xxs",
+    "name": "LERSTA",
+    "description": "Lámpara de pie/de lectura",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skurup-lampara-techo-3-focos-negro__0751053_pe746892_s5.jpg?f=xxs",
+    "name": "SKURUP",
+    "description": "Lámpara techo de 3 focos",
+    "price": 24.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/agunnaryd-lampara-techo-3-luces-negro__0859557_pe782370_s5.jpg?f=xxs",
+    "name": "AGUNNARYD",
+    "description": "Lámpara techo 3 luces",
+    "price": 79.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/varmblixt-lampara-led-espejo-pared-regulacion-intensidad-luminosa-color-bronce-redondo__1116854_pe872604_s5.jpg?f=xxs",
+    "name": "VARMBLIXT",
+    "description": "Lámpara LED espejo de pared",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-iluminacion-led-armario-sensor-regulacion-intensidad-luminosa-beige__0967060_pe810026_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN",
+    "description": "Iluminación LED armario sensor",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/isjakt-lampara-led-pie-lectura-regulacion-intensidad-luminosa-niquelado__1006753_pe825819_s5.jpg?f=xxs",
+    "name": "ISJAKT",
+    "description": "Lámpara LED de pie/lectura",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kallfront-hemma-lampara-techo-negro__1293811_pe935274_s5.jpg?f=xxs",
+    "name": "KALLFRONT / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 24.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/vidja-lampara-pie-blanco__0606512_pe682388_s5.jpg?f=xxs",
+    "name": "VIDJA",
+    "description": "Lámpara de pie",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/blasverk-lampara-techo-beige__1150244_pe884434_s5.jpg?f=xxs",
+    "name": "BLÅSVERK",
+    "description": "Lámpara de techo",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ackja-lampara-mesa-niquelado__1203751_pe906422_s5.jpg?f=xxs",
+    "name": "ACKJA",
+    "description": "Lámpara de mesa",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/grono-lampara-mesa-vidrio-esmerilado-blanco__0609359_pe684477_s5.jpg?f=xxs",
+    "name": "GRÖNÖ",
+    "description": "Lámpara de mesa",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skurup-aplique-instalacion-fija-negro__0687264_pe722003_s5.jpg?f=xxs",
+    "name": "SKURUP",
+    "description": "Aplique instalación fija",
+    "price": 16.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/blastang-hemma-lampara-techo-beige-blanco__1359783_pe954297_s5.jpg?f=xxs",
+    "name": "BLÅSTÅNG / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 24.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-lampara-techo-led-regulac-lumin-inalambr-espectro-blanco-blanco__1008045_pe826687_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Lámpara techo LED",
+    "price": 99.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ankarspel-aplique-instalacion-fija-efecto-peltre__1067391_pe852701_s5.jpg?f=xxs",
+    "name": "ANKARSPEL",
+    "description": "Aplique instalación fija",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/sambord-lampara-pie-lectura-negro-blanco__1299316_pe936525_s5.jpg?f=xxs",
+    "name": "SAMBORD",
+    "description": "Lámpara de pie/lectura",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/fyrtiofyra-lampara-techo-efecto-cromado-blanco__1161912_pe889572_s5.jpg?f=xxs",
+    "name": "FYRTIOFYRA",
+    "description": "Lámpara de techo",
+    "price": 13.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/hektar-foco-pared-con-pinza-gris-oscuro__0606598_pe682407_s5.jpg?f=xxs",
+    "name": "HEKTAR",
+    "description": "Foco de pared/con pinza",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ranarp-lampara-techo-3-focos-hueso__0607354_pe682897_s5.jpg?f=xxs",
+    "name": "RANARP",
+    "description": "Lámpara techo de 3 focos",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/blidvader-lampara-mesa-hueso-ceramica-beige__1059594_pe849715_s5.jpg?f=xxs",
+    "name": "BLIDVÄDER",
+    "description": "Lámpara de mesa",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solklint-aplique-instalacion-fija-laton-vidrio-transparente-gris__0842280_pe778928_s5.jpg?f=xxs",
+    "name": "SOLKLINT",
+    "description": "Aplique instalación fija",
+    "price": 24.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/arstid-lampara-techo-blanco__0607745_pe683174_s5.jpg?f=xxs",
+    "name": "ÅRSTID",
+    "description": "Lámpara de techo",
+    "price": 34.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kabomba-lampara-led-techo-mate-negro__0990155_pe818782_s5.jpg?f=xxs",
+    "name": "KABOMBA",
+    "description": "Lámpara LED de techo",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/fubbla-lampara-pared-blanco__0607991_pe683401_s5.jpg?f=xxs",
+    "name": "FUBBLA",
+    "description": "Lámpara pared",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/remtang-lampara-techo-verde-grisaceo__1256514_pe925091_s5.jpg?f=xxs",
+    "name": "REMTÅNG",
+    "description": "Lámpara de techo",
+    "price": 24.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skurup-lampara-pared-trabajo-negro__0629510_pe694334_s5.jpg?f=xxs",
+    "name": "SKURUP",
+    "description": "Lámpara de pared/trabajo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ranarp-lampara-techo-negro__0613059_pe686147_s5.jpg?f=xxs",
+    "name": "RANARP",
+    "description": "Lámpara de techo",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/rokfri-foco-techo-con-3-focos-color-aluminio__1350985_pe951851_s5.jpg?f=xxs",
+    "name": "RÖKFRI",
+    "description": "Foco de techo con 3 focos",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/frojda-lampara-techo-pilas-blanco__1289011_pe934374_s5.jpg?f=xxs",
+    "name": "FRÖJDA",
+    "description": "Lámpara de techo",
+    "price": 24.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tallbyn-lampara-techo-3-luces-niquelado-blanco-opalo-vidrio__1009959_pe827795_s5.jpg?f=xxs",
+    "name": "TÄLLBYN",
+    "description": "Lámpara techo 3 luces",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strala-lampara-techo-led-pilas-pino__1288574_pe934188_s5.jpg?f=xxs",
+    "name": "STRÅLA",
+    "description": "Lámpara techo LED",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strala-lampara-techo-led-pilas-forma-anillo-blanco__1180546_pe896368_s5.jpg?f=xxs",
+    "name": "STRÅLA",
+    "description": "Lámpara techo LED",
+    "price": 5.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-lampara-pie-lectura-blanco__0662532_pe711964_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Lámpara de pie/lectura",
+    "price": 54.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/arstid-lampara-pared-laton-blanco__0606626_pe682428_s5.jpg?f=xxs",
+    "name": "ÅRSTID",
+    "description": "Lámpara de pared",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/jakobsbyn-jallby-lampara-techo-ahumado-vidrio-chapado-laton__1335520_pe947077_s5.jpg?f=xxs",
+    "name": "JAKOBSBYN / JÄLLBY",
+    "description": "Lámpara de techo",
+    "price": 49.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/hektar-lampara-techo-3-focos-gris-oscuro__0607345_pe682894_s5.jpg?f=xxs",
+    "name": "HEKTAR",
+    "description": "Lámpara techo de 3 focos",
+    "price": 34.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ackja-lampara-techo-con-forma-ondulada-negro__1216203_pe912355_s5.jpg?f=xxs",
+    "name": "ACKJA",
+    "description": "Lámpara de techo",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/bjorkspirea-iluminacion-decorativa-led-negro-forma-tubo__1088619_pe861264_s5.jpg?f=xxs",
+    "name": "BJÖRKSPIREA",
+    "description": "Iluminación decorativa LED",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-pie-solar-led-exterior-globo-blanco__0939561_pe794620_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara de pie solar LED",
+    "price": 29
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/dejsa-lampara-mesa-beige-blanco-opalo-vidrio__0967540_pe810183_s5.jpg?f=xxs",
+    "name": "DEJSA",
+    "description": "Lámpara de mesa",
+    "price": 44.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strala-guirnalda-luminosa-led-80-luces-pilas-mini-estrella-dorado__0954491_pe803347_s5.jpg?f=xxs",
+    "name": "STRÅLA",
+    "description": "Guirnalda luminosa LED 80 luces",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ringsta-skaftet-lampara-mesa-blanco-laton__0856872_pe780843_s5.jpg?f=xxs",
+    "name": "RINGSTA / SKAFTET",
+    "description": "Lámpara de mesa",
+    "price": 26.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/rasegel-lunnom-lampara-mesa-bombilla-forma-globo-transparente__1128146_pe876433_s5.jpg?f=xxs",
+    "name": "RÅSEGEL / LUNNOM",
+    "description": "Lámpara mesa+bombilla",
+    "price": 13.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/pilskott-lampara-pie-inteligente-negro__1077629_pe856958_s5.jpg?f=xxs",
+    "name": "PILSKOTT",
+    "description": "Lámpara de pie",
+    "price": 99.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kallblixt-aplique-instalacion-fija-blanco-vidrio__0993066_pe820400_s5.jpg?f=xxs",
+    "name": "KALLBLIXT",
+    "description": "Aplique instalación fija",
+    "price": 16.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/brunsta-hemma-lampara-techo-negro__0669224_pe714900_s5.jpg?f=xxs",
+    "name": "BRUNSTA / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 19.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/evedal-lampara-mesa-marmol-gris__0663169_pe712303_s5.jpg?f=xxs",
+    "name": "EVEDAL",
+    "description": "Lámpara de mesa",
+    "price": 199
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/flottilj-lampara-escritorio-beige__1177509_pe895347_s5.jpg?f=xxs",
+    "name": "FLOTTILJ",
+    "description": "Lámpara de escritorio",
+    "price": 6.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-luz-solar-led-exterior-medio-globo-blanco__0767076_pe753941_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara luz solar LED",
+    "price": 12
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tidig-lampara-techo-con-5-focos-niquelado__0607352_pe682901_s5.jpg?f=xxs",
+    "name": "TIDIG",
+    "description": "Lámpara de techo con 5 focos",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/simrishamn-lampara-mesa-pared-cromado-blanco-opalo-vidrio__0789662_pe764089_s5.jpg?f=xxs",
+    "name": "SIMRISHAMN",
+    "description": "Lámpara de mesa/pared",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ackja-tradfri-lampara-techo-bombilla-con-forma-ondulada-negro-inteligente-regulac-lumin-inalambr__1218236_pe913173_s5.jpg?f=xxs",
+    "name": "ACKJA / TRÅDFRI",
+    "description": "Lámpara techo + bombilla",
+    "price": 59.97
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/sunneby-lunnom-lampara-techo-bombilla-blanco-vidrio-incoloro__1128174_pe876447_s5.jpg?f=xxs",
+    "name": "SUNNEBY / LUNNOM",
+    "description": "Lámpara techo + bombilla",
+    "price": 14.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/harslinga-tradfri-lampara-pie-bomb-blanco-inteligente-espectro-blanco__1176042_pe894913_s5.jpg?f=xxs",
+    "name": "HÅRSLINGA / TRÅDFRI",
+    "description": "Lámpara pie +bomb",
+    "price": 39.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/flyghojd-lampara-mesa-niquelado-blanco__1244501_pe921210_s5.jpg?f=xxs",
+    "name": "FLYGHÖJD",
+    "description": "Lámpara de mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/lovmanad-lampara-flexo-trabajo-negro__1030487_pe836292_s5.jpg?f=xxs",
+    "name": "LÖVMÅNAD",
+    "description": "Lámpara flexo de trabajo",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-mesa-solar-led-beige-raya__1032368_pe836878_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara mesa solar LED",
+    "price": 15
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/hektar-lampara-techo-gris-oscuro__0607416_pe682966_s5.jpg?f=xxs",
+    "name": "HEKTAR",
+    "description": "Lámpara de techo",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/holjes-lampara-techo-blanco__0607401_pe682951_s5.jpg?f=xxs",
+    "name": "HÖLJES",
+    "description": "Lámpara de techo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skymningen-lampara-techo-blanco__0646186_pe704010_s5.jpg?f=xxs",
+    "name": "SKYMNINGEN",
+    "description": "Lámpara de techo",
+    "price": 59.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-mesa-pilas-exterior-conico-blanco__1224429_pe914943_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara mesa",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/vissvass-guirnalda-led-40-bombillas-interior-a-pilas-gris-plata__0591723_pe674266_s5.jpg?f=xxs",
+    "name": "VISSVASS",
+    "description": "Guirnalda LED 40 bombillas",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/arstid-lampara-pie-laton-blanco__0390610_pe566328_s5.jpg?f=xxs",
+    "name": "ÅRSTID",
+    "description": "Lámpara de pie",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strala-lampara-techo-led-pilas-forma-estrella__1090139_pe861842_s5.jpg?f=xxs",
+    "name": "STRÅLA",
+    "description": "Lámpara techo LED",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/livsar-guirnalda-luminosa-led-12-luces-interior-a-pilas-gris-blanco__0658394_pe710185_s5.jpg?f=xxs",
+    "name": "LIVSÅR",
+    "description": "Guirnalda luminosa LED 12 luces",
+    "price": 12.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skurup-foco-con-pinza-negro__0972931_pe811820_s5.jpg?f=xxs",
+    "name": "SKURUP",
+    "description": "Foco con pinza",
+    "price": 12.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/vaxjo-lampara-techo-beige__0613036_pe686128_s5.jpg?f=xxs",
+    "name": "VÄXJÖ",
+    "description": "Lámpara de techo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/aftonsparv-iluminacion-decorativa-led-forma-planeta-multicolor__1195012_pe902205_s5.jpg?f=xxs",
+    "name": "AFTONSPARV",
+    "description": "Iluminación decorativa LED",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/regnskur-hemma-lampara-techo-turquesa-blanco__1204098_pe906573_s5.jpg?f=xxs",
+    "name": "REGNSKUR / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 29.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/iskarna-lampara-mesa-multicolor__1010154_pe828872_s5.jpg?f=xxs",
+    "name": "ISKÄRNA",
+    "description": "Lámpara mesa",
+    "price": 34.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/upplid-lampara-pared-exterior-negro__1169410_pe892437_s5.jpg?f=xxs",
+    "name": "UPPLID",
+    "description": "Lámpara de pared",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-lampara-techo-blanco__0485490_pe621551_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Lámpara de techo",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strala-pie-lampara-mesa-blanco__0461680_pe607654_s5.jpg?f=xxs",
+    "name": "STRÅLA",
+    "description": "Pie de lámpara de mesa",
+    "price": 7
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kvart-lampara-flexo-trabajo-negro__0610459_pe685518_s5.jpg?f=xxs",
+    "name": "KVART",
+    "description": "Lámpara flexo de trabajo",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/brunbage-lampara-trabajo-con-almacenaje-regulacion-intensidad-luminosa-turquesa__1149363_pe883977_s5.jpg?f=xxs",
+    "name": "BRUNBÅGE",
+    "description": "Lámpara trabajo",
+    "price": 17.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strala-guirnalda-led-160-bombillas-pilas-mini__0574403_pe668570_s5.jpg?f=xxs",
+    "name": "STRÅLA",
+    "description": "Guirnalda LED 160 bombillas",
+    "price": 12.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/askmuller-lampara-mesa-regulacion-intensidad-luminosa-gris-claro__1299815_pe936785_s5.jpg?f=xxs",
+    "name": "ÅSKMULLER",
+    "description": "Lámpara de mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/barometer-riel-techo-5-focos-color-bronce__0613026_pe686117_s5.jpg?f=xxs",
+    "name": "BAROMETER",
+    "description": "Riel techo 5 focos",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solklint-lampara-techo-laton-vidrio-transparente-gris__0842306_pe778948_s5.jpg?f=xxs",
+    "name": "SOLKLINT",
+    "description": "Lámpara de techo",
+    "price": 34.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kappeland-hemma-lampara-techo-ratan-negro__1200468_pe904977_s5.jpg?f=xxs",
+    "name": "KAPPELAND / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 39.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/sunneby-molnart-lampara-techo-bombilla-negro-textil-cilindro-rayas__1382912_pe962394_s5.jpg?f=xxs",
+    "name": "SUNNEBY / MOLNART",
+    "description": "Lámpara techo + bombilla",
+    "price": 22.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skaftet-molnart-lampara-techo-bombilla-textil-niquelado-forma-tubo-con-motivos__1216907_pe912553_s5.jpg?f=xxs",
+    "name": "SKAFTET / MOLNART",
+    "description": "Lámpara techo + bombilla",
+    "price": 31.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-iluminacion-led-armario-sensor-regulacion-intensidad-luminosa-gris-oscuro__0967061_pe810028_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN",
+    "description": "Iluminación LED armario sensor",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/navlinge-foco-techo-con-3-focos-blanco__0707007_pe726048_s5.jpg?f=xxs",
+    "name": "NÄVLINGE",
+    "description": "Foco de techo con 3 focos",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/vaghojd-lampara-pie-regulacion-intensidad-luminosa-negro__1126257_pe875659_s5.jpg?f=xxs",
+    "name": "VÅGHÖJD",
+    "description": "Lámpara de pie",
+    "price": 149
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nyfors-lampara-pie-niquelado-blanco__0684442_pe721181_s5.jpg?f=xxs",
+    "name": "NYFORS",
+    "description": "Lámpara de pie",
+    "price": 79.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/sunneby-molnskikt-lampara-techo-negro-rojo-oscuro-terciopelo__1311619_pe940030_s5.jpg?f=xxs",
+    "name": "SUNNEBY / MOLNSKIKT",
+    "description": "Lámpara de techo",
+    "price": 22.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/sinnerlig-aplique-instalacion-fija-bambu-a-mano__1167792_pe891695_s5.jpg?f=xxs",
+    "name": "SINNERLIG",
+    "description": "Aplique instalación fija",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/jarpliden-lampara-techo-blanco-vidrio-niquelado__0998174_pe822956_s5.jpg?f=xxs",
+    "name": "JÄRPLIDEN",
+    "description": "Lámpara de techo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/varmblixt-lampara-pared-blanco-metal-circulo__1116838_pe872594_s5.jpg?f=xxs",
+    "name": "VARMBLIXT",
+    "description": "Lámpara pared",
+    "price": 59
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/varmblixt-lampara-techo-led-blanco-vidrio-esmerilado__1117321_pe872689_s5.jpg?f=xxs",
+    "name": "VARMBLIXT",
+    "description": "Lámpara techo LED",
+    "price": 159
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/evedal-lampara-pie-marmol-gris__0663195_pe712324_s5.jpg?f=xxs",
+    "name": "EVEDAL",
+    "description": "Lámpara de pie",
+    "price": 349
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/evedal-lampara-techo-gris__0627372_pe693313_s5.jpg?f=xxs",
+    "name": "EVEDAL",
+    "description": "Lámpara de techo",
+    "price": 169
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/fyxnas-lampara-mesa-turquesa__0859471_pe780921_s5.jpg?f=xxs",
+    "name": "FYXNÄS",
+    "description": "Lámpara de mesa",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/hektogram-lampara-luz-indirecta-lectura-gris-plata-blanco__0943777_pe797040_s5.jpg?f=xxs",
+    "name": "HEKTOGRAM",
+    "description": "Lámpara luz indirecta/lectura",
+    "price": 34.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/misterhult-lampara-techo-bambu-a-mano__0794605_pe765667_s5.jpg?f=xxs",
+    "name": "MISTERHULT",
+    "description": "Lámpara de techo",
+    "price": 99.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ranarp-lampara-techo-hueso__0613060_pe686150_s5.jpg?f=xxs",
+    "name": "RANARP",
+    "description": "Lámpara de techo",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/lagtryck-lampara-pie-blanco__1023682_pe833216_s5.jpg?f=xxs",
+    "name": "LÅGTRYCK",
+    "description": "Lámpara de pie",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/vindkast-lampara-mesa-blanco__1152534_pe885404_s5.jpg?f=xxs",
+    "name": "VINDKAST",
+    "description": "Lámpara de mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-mesa-solar-led-exterior-bote-incoloro__1041328_pe840960_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara mesa solar LED",
+    "price": 9
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/simrishamn-lampara-mesa-cromado-blanco-opalo-vidrio__0789483_pe763998_s5.jpg?f=xxs",
+    "name": "SIMRISHAMN",
+    "description": "Lámpara de mesa",
+    "price": 44.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ledljus-guirnalda-luminosa-led-24-luces-exterior-negro__0597225_pe677044_s5.jpg?f=xxs",
+    "name": "LEDLJUS",
+    "description": "Guirnalda luminosa LED 24 luces",
+    "price": 16.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/dejsa-lampara-techo-3-luces-cromado-blanco-opalo-vidrio__0967524_pe810175_s5.jpg?f=xxs",
+    "name": "DEJSA",
+    "description": "Lámpara techo 3 luces",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/rokfri-foco-techo-con-1-foco-color-aluminio__1350972_pe951847_s5.jpg?f=xxs",
+    "name": "RÖKFRI",
+    "description": "Foco de techo con 1 foco",
+    "price": 6.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/knixhult-lampara-pie-bambu-a-mano__0635426_pe697194_s5.jpg?f=xxs",
+    "name": "KNIXHULT",
+    "description": "Lámpara de pie",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/snodjup-iluminacion-decorativa-led-bocadillo-dialogo-blanco-multicolor__1090092_pe861828_s5.jpg?f=xxs",
+    "name": "SNÖDJUP",
+    "description": "Iluminación decorativa LED",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/flyghojd-lampara-pie-laton-beige__1244478_pe921198_s5.jpg?f=xxs",
+    "name": "FLYGHÖJD",
+    "description": "Lámpara de pie",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/hektar-lampara-pie-3-focos-marron-rojizo__1279732_pe931507_s5.jpg?f=xxs",
+    "name": "HEKTAR",
+    "description": "Lámpara de pie 3 focos",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/lauters-lampara-mesa-fresno-blanco__0663864_pe712537_s5.jpg?f=xxs",
+    "name": "LAUTERS",
+    "description": "Lámpara de mesa",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-flexo-carga-blanco__0991755_pe819570_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Flexo + carga",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/jansjo-lampara-led-usb-negro__0607576_pe683065_s5.jpg?f=xxs",
+    "name": "JANSJÖ",
+    "description": "Lámpara LED USB",
+    "price": 4.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/svartra-guirnalda-led-20-bombillas-negro-exterior__1179547_pe895975_s5.jpg?f=xxs",
+    "name": "SVARTRÅ",
+    "description": "Guirnalda LED 20 bombillas",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/hektar-lampara-flexo-trabajo-gris-oscuro__0470194_pe612598_s5.jpg?f=xxs",
+    "name": "HEKTAR",
+    "description": "Lámpara flexo de trabajo",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/markfrost-lampara-mesa-marmol-negro__0783961_pe761588_s5.jpg?f=xxs",
+    "name": "MARKFROST",
+    "description": "Lámpara de mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strala-lampara-mesa-blanco__1178103_pe895662_s5.jpg?f=xxs",
+    "name": "STRÅLA",
+    "description": "Lámpara mesa",
+    "price": 8.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/simrishamn-lampara-techo-3-brazos-cromado-blanco-opalo-vidrio__0793571_pe765399_s5.jpg?f=xxs",
+    "name": "SIMRISHAMN",
+    "description": "Lámpara techo&3 brazos",
+    "price": 99.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/markfrost-molnart-lampara-mesa-bombilla-marmol-negro-elipse-multicolor__1128198_pe876472_s5.jpg?f=xxs",
+    "name": "MARKFROST / MOLNART",
+    "description": "Lámpara mesa+bombilla",
+    "price": 34.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/jallby-molnart-lampara-techo-bombilla-chapado-laton-elipse-multicolor__1120879_pe874007_s5.jpg?f=xxs",
+    "name": "JÄLLBY / MOLNART",
+    "description": "Lámpara techo + bombilla",
+    "price": 29.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/pilblixt-lampara-techo-blanco-verde-claro-vidrio-efecto-dorado-metal__1131409_pe878024_s5.jpg?f=xxs",
+    "name": "PILBLIXT",
+    "description": "Lámpara de techo",
+    "price": 99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strala-guirnalda-luminosa-led-200-luces-negro__1094169_pe863323_s5.jpg?f=xxs",
+    "name": "STRÅLA",
+    "description": "Guirnalda luminosa LED 200 luces",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/harte-lampara-trabajo-blanco-gris-plata__0243818_pe383097_s5.jpg?f=xxs",
+    "name": "HÅRTE",
+    "description": "Lámpara trabajo",
+    "price": 16.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ranarp-lampara-flexo-trabajo-hueso__0610455_pe685514_s5.jpg?f=xxs",
+    "name": "RANARP",
+    "description": "Lámpara flexo de trabajo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/snobyar-lampara-mesa-gris-turquesa-ceramica-gris__0952098_pe801573_s5.jpg?f=xxs",
+    "name": "SNÖBYAR",
+    "description": "Lámpara de mesa",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/sinnerlig-lampara-pie-bambu-a-mano__1102331_pe866913_s5.jpg?f=xxs",
+    "name": "SINNERLIG",
+    "description": "Lámpara de pie",
+    "price": 59.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strala-lampara-mesa-exterior-metal-regulacion-intensidad-luminosa-negro__1288588_pe934208_s5.jpg?f=xxs",
+    "name": "STRÅLA",
+    "description": "Lámpara mesa",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/spiken-luz-noche-led-forma-nutria-multicolor__0831192_pe777008_s5.jpg?f=xxs",
+    "name": "SPIKEN",
+    "description": "Luz noche LED",
+    "price": 12.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/simrishamn-lampara-pie-cromado-blanco-opalo-vidrio__0789445_pe763989_s5.jpg?f=xxs",
+    "name": "SIMRISHAMN",
+    "description": "Lámpara de pie",
+    "price": 99.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/blavingad-lampara-pared-tortuga-verde__1088958_pe861332_s5.jpg?f=xxs",
+    "name": "BLÅVINGAD",
+    "description": "Lámpara pared",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-mesa-solar-led-farol-beige__1029655_pe835965_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara mesa solar LED",
+    "price": 20
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/frojda-adorno-mesa-led-pilas-gris-plata__1288595_pe934214_s5.jpg?f=xxs",
+    "name": "FRÖJDA",
+    "description": "Adorno mesa LED",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kvadratur-hemma-lampara-techo-negro__0928613_pe789921_s5.jpg?f=xxs",
+    "name": "KVADRATUR / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 24.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/boja-lampara-mesa-bambu-a-mano__0606973_pe682643_s5.jpg?f=xxs",
+    "name": "BÖJA",
+    "description": "Lámpara de mesa",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skottorp-skaftet-lampara-pie-arco-gris-claro__0856912_pe780859_s5.jpg?f=xxs",
+    "name": "SKOTTORP / SKAFTET",
+    "description": "Lámpara pie",
+    "price": 86.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/pektolit-hemma-lampara-techo-blanco__1202220_pe905826_s5.jpg?f=xxs",
+    "name": "PEKTOLIT / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 22.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/akterport-guirnalda-luminosa-led-12-luces-pilas-piedras-blanco__0970163_pe811804_s5.jpg?f=xxs",
+    "name": "AKTERPORT",
+    "description": "Guirnalda luminosa LED 12 luces",
+    "price": 11.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/regnskur-sunneby-lampara-techo-blanco__0928627_pe789930_s5.jpg?f=xxs",
+    "name": "REGNSKUR / SUNNEBY",
+    "description": "Lámpara de techo",
+    "price": 37.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/blotsno-guirnalda-luminosa-led-12-luces-interior-a-pilas-negro__0597213_pe677032_s5.jpg?f=xxs",
+    "name": "BLÖTSNÖ",
+    "description": "Guirnalda luminosa LED 12 luces",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/svartnora-lampara-techo-efecto-acero-inoxidable__1010689_pe828221_s5.jpg?f=xxs",
+    "name": "SVARTNORA",
+    "description": "Lámpara de techo",
+    "price": 79.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-mesa-pilas-exterior__1224486_pe914985_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/pilblixt-lampara-mesa-blanco-verde-claro-vidrio-efecto-dorado-metal__1132176_pe878168_s5.jpg?f=xxs",
+    "name": "PILBLIXT",
+    "description": "Lámpara de mesa",
+    "price": 64.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/harslinga-molnart-lampara-pie-bomb-blanco-elipse-multicolor__1175987_pe894895_s5.jpg?f=xxs",
+    "name": "HÅRSLINGA / MOLNART",
+    "description": "Lámpara pie +bomb",
+    "price": 34.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/hektar-lampara-pie-3-focos-gris-oscuro__0606224_pe682139_s5.jpg?f=xxs",
+    "name": "HEKTAR",
+    "description": "Lámpara de pie 3 focos",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skurup-lampara-flexo-trabajo-negro__1019457_pe831378_s5.jpg?f=xxs",
+    "name": "SKURUP",
+    "description": "Lámpara flexo de trabajo",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/isnalen-lampara-trabajo-blanco-color-bronce__1053570_pe857378_s5.jpg?f=xxs",
+    "name": "ISNÅLEN",
+    "description": "Lámpara trabajo",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/skaftet-pie-lampara-mesa-color-bronce__0663969_pe712567_s5.jpg?f=xxs",
+    "name": "SKAFTET",
+    "description": "Pie de lámpara de mesa",
+    "price": 16.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ringsta-skaftet-lampara-mesa-blanco-niquelado__0856875_pe780845_s5.jpg?f=xxs",
+    "name": "RINGSTA / SKAFTET",
+    "description": "Lámpara de mesa",
+    "price": 26.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tomelilla-lampara-pie-niquelado-blanco__0928814_pe789976_s5.jpg?f=xxs",
+    "name": "TOMELILLA",
+    "description": "Lámpara de pie",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ranarp-lampara-techo-hueso__0613045_pe686138_s5.jpg?f=xxs",
+    "name": "RANARP",
+    "description": "Lámpara de techo",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-mesa-pilas-exterior__1233276_pe916700_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ackja-molnart-lampara-mesa-bombilla-efecto-cromado-globo-vidrio-transparente-gris__1185617_pe898488_s5.jpg?f=xxs",
+    "name": "ACKJA / MOLNART",
+    "description": "Lámpara mesa+bombilla",
+    "price": 24.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-farol-barra-iluminacion-solar-led-exterior-incoloro-negro__1038424_pe839671_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Farol barra iluminación solar LED",
+    "price": 15
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/upplid-lampara-pared-exterior-negro__1169419_pe892446_s5.jpg?f=xxs",
+    "name": "UPPLID",
+    "description": "Lámpara de pared",
+    "price": 34.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/virrmo-lampara-flexo-trabajo-niquelado__0859444_pe780909_s5.jpg?f=xxs",
+    "name": "VIRRMO",
+    "description": "Lámpara flexo de trabajo",
+    "price": 34.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/symfonisk-lampara-altavoz-wifi-pantalla-bambu__1164423_pe890572_s5.jpg?f=xxs",
+    "name": "SYMFONISK",
+    "description": "Lámpara altavoz wifi pantalla bambú",
+    "price": 198.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/harslinga-tradfri-lampara-pie-bomb-negro-inteligente-espectro-blanco__1181031_pe896535_s5.jpg?f=xxs",
+    "name": "HÅRSLINGA / TRÅDFRI",
+    "description": "Lámpara pie +bomb",
+    "price": 39.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tovader-luz-noche-led-gato-pilas__1010978_pe828372_s5.jpg?f=xxs",
+    "name": "TÖVÄDER",
+    "description": "Luz noche LED",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/hektogram-lampara-luz-indirecta-gris-plata-blanco__0941175_pe795353_s5.jpg?f=xxs",
+    "name": "HEKTOGRAM",
+    "description": "Lámpara luz indirecta",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/finnstarr-lampara-flexo-trabajo-negro__0765770_pe753631_s5.jpg?f=xxs",
+    "name": "FINNSTARR",
+    "description": "Lámpara flexo de trabajo",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/remtang-lampara-mesa-verde-grisaceo__1256479_pe925081_s5.jpg?f=xxs",
+    "name": "REMTÅNG",
+    "description": "Lámpara de mesa",
+    "price": 14.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/upplyst-lampara-pared-corazon-rosa__0716265_pe730770_s5.jpg?f=xxs",
+    "name": "UPPLYST",
+    "description": "Lámpara pared",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-gris-oscuro__1170986_pe892972_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 84.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-gris-oscuro__1170945_pe892966_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 64.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/hektar-lampara-pie-gris-oscuro__0149974_pe308131_s5.jpg?f=xxs",
+    "name": "HEKTAR",
+    "description": "Lámpara de pie",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-mesa-solar-led-farol-azul-claro__1029657_pe835967_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara mesa solar LED",
+    "price": 15
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ankarspel-lampara-pie-lectura-efecto-peltre__1067377_pe852699_s5.jpg?f=xxs",
+    "name": "ANKARSPEL",
+    "description": "Lámpara de pie/lectura",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solleftea-lampara-pie-ovalado-blanco__0684002_pe720965_s5.jpg?f=xxs",
+    "name": "SOLLEFTEÅ",
+    "description": "Lámpara de pie",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/knixhult-lampara-mesa-bambu-a-mano__0635430_pe697196_s5.jpg?f=xxs",
+    "name": "KNIXHULT",
+    "description": "Lámpara de mesa",
+    "price": 44.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-mesa-solar-led-casa-rojo__1038425_pe839670_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara mesa solar LED",
+    "price": 20
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/frojda-lampara-techo-led-pilas-forma-anillo__1090136_pe861841_s5.jpg?f=xxs",
+    "name": "FRÖJDA",
+    "description": "Lámpara techo LED",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strala-soporte-vela-led-pilas-negro__0954412_pe803282_s5.jpg?f=xxs",
+    "name": "STRÅLA",
+    "description": "Soporte vela LED a pilas",
+    "price": 7.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/hektar-flexo-carga-gris-oscuro__0473183_pe614486_s5.jpg?f=xxs",
+    "name": "HEKTAR",
+    "description": "Flexo + carga",
+    "price": 99.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/frojda-adorno-mesa-led-gris-plata__1288592_pe934211_s5.jpg?f=xxs",
+    "name": "FRÖJDA",
+    "description": "Adorno mesa LED",
+    "price": 22.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-techo-solar-led-exterior-globo-blanco__0541978_pe653853_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara techo solar LED",
+    "price": 8
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/backfrane-aplique-instalacion-fija-exterior-negro__1169393_pe892429_s5.jpg?f=xxs",
+    "name": "BÄCKFRÄNE",
+    "description": "Aplique instalación fija",
+    "price": 44.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/gardjarn-guirnalda-luminosa-led-12-luces-negro-exterior__1169211_pe892378_s5.jpg?f=xxs",
+    "name": "GARDJÄRN",
+    "description": "Guirnalda luminosa LED 12 luces",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kryssmast-base-lampara-pie-niquelado__0716070_pe730684_s5.jpg?f=xxs",
+    "name": "KRYSSMAST",
+    "description": "Base para lámpara de pie",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-iluminacion-led-armario-sensor-regulacion-intensidad-luminosa-blanco__0967059_pe810025_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN",
+    "description": "Iluminación LED armario sensor",
+    "price": 16.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strala-guirnalda-luminosa-100-luces-negro__1090401_pe862046_s5.jpg?f=xxs",
+    "name": "STRÅLA",
+    "description": "Guirnalda luminosa 100 luces",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/angarna-lampara-mesa-motivo-balon-futbol__0840928_pe778704_s5.jpg?f=xxs",
+    "name": "ÄNGARNA",
+    "description": "Lámpara mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymane-foco-techo-con-3-focos-antracita__0646545_pe704224_s5.jpg?f=xxs",
+    "name": "NYMÅNE",
+    "description": "Foco de techo con 3 focos",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ramsele-lampara-techo-flor-blanco__0743946_pe743537_s5.jpg?f=xxs",
+    "name": "RAMSELE",
+    "description": "Lámpara de techo",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tovader-luz-noche-led-oso-pilas__1023453_pe833122_s5.jpg?f=xxs",
+    "name": "TÖVÄDER",
+    "description": "Luz noche LED",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/nymo-skaftet-lampara-pie-negro-laton-laton__0765034_pe753489_s5.jpg?f=xxs",
+    "name": "NYMÖ / SKAFTET",
+    "description": "Lámpara de pie",
+    "price": 69.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/sinnerlig-lampara-mesa-bambu-a-mano-regulacion-intensidad-luminosa__1102332_pe866914_s5.jpg?f=xxs",
+    "name": "SINNERLIG",
+    "description": "Lámpara mesa",
+    "price": 34.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/pektolit-hemma-lampara-techo-blanco__1202219_pe905825_s5.jpg?f=xxs",
+    "name": "PEKTOLIT / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 17.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/vindkast-lampara-pie-blanco__1180020_pe896176_s5.jpg?f=xxs",
+    "name": "VINDKAST",
+    "description": "Lámpara de pie",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/misterhult-lampara-mesa-bambu-a-mano__0789071_pe763807_s5.jpg?f=xxs",
+    "name": "MISTERHULT",
+    "description": "Lámpara de mesa",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-techo-solar-led-exterior-globo-azul-estrella__1036830_pe838549_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara techo solar LED",
+    "price": 10
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/harslinga-lunnom-lampara-pie-bomb-blanco-vidrio-incoloro__1175965_pe894882_s5.jpg?f=xxs",
+    "name": "HÅRSLINGA / LUNNOM",
+    "description": "Lámpara pie +bomb",
+    "price": 26.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solbo-lampara-mesa-blanco-buho__0609266_pe684403_s5.jpg?f=xxs",
+    "name": "SOLBO",
+    "description": "Lámpara mesa",
+    "price": 16.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/upplid-lampara-techo-exterior-negro__1169421_pe892448_s5.jpg?f=xxs",
+    "name": "UPPLID",
+    "description": "Lámpara de techo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/markfrost-molnart-lampara-mesa-bombilla-negro-vidrio-transparente-gris__1084398_pe859627_s5.jpg?f=xxs",
+    "name": "MARKFROST / MOLNART",
+    "description": "Lámpara mesa+bombilla",
+    "price": 34.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-techo-solar-led-exterior-ovalado-azul-raya__1029510_pe835871_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara techo solar LED",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/angarna-lampara-mesa-dinosaurio__0929778_pe790462_s5.jpg?f=xxs",
+    "name": "ÄNGARNA",
+    "description": "Lámpara mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-techo-solar-led-exterior-ovalado-motivo-coral__1029650_pe835961_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara techo solar LED",
+    "price": 12
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/knixhult-lampara-techo-bambu-a-mano__0635428_pe697195_s5.jpg?f=xxs",
+    "name": "KNIXHULT",
+    "description": "Lámpara de techo",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/svartra-guirnalda-luminosa-led-12-luces-negro-exterior__1068980_pe853701_s5.jpg?f=xxs",
+    "name": "SVARTRÅ",
+    "description": "Guirnalda luminosa LED 12 luces",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/virrmo-lampara-pie-lectura-niquelado__0859437_pe780906_s5.jpg?f=xxs",
+    "name": "VIRRMO",
+    "description": "Lámpara de pie/lectura",
+    "price": 45.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/jallby-molnart-lampara-techo-bombilla-niquelado-forma-tubo-vidrio-transparente-blanco__1128209_pe876476_s5.jpg?f=xxs",
+    "name": "JÄLLBY / MOLNART",
+    "description": "Lámpara techo + bombilla",
+    "price": 29.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/regnskur-skaftet-lampara-pie-arco-turquesa-negro__1204113_pe906576_s5.jpg?f=xxs",
+    "name": "REGNSKUR / SKAFTET",
+    "description": "Lámpara pie",
+    "price": 94.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/aftonsparv-lampara-mesa-cohete-multicolor__1195011_pe902204_s5.jpg?f=xxs",
+    "name": "AFTONSPARV",
+    "description": "Lámpara mesa",
+    "price": 24.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strala-guirnalda-led-40-bombillas-pilas__0985739_pe816745_s5.jpg?f=xxs",
+    "name": "STRÅLA",
+    "description": "Guirnalda LED 40 bombillas",
+    "price": 5.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/krux-lampara-trabajo-blanco__0540949_pe653354_s5.jpg?f=xxs",
+    "name": "KRUX",
+    "description": "Lámpara trabajo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/pelarboj-lampara-mesa-multicolor__0689134_pe722837_s5.jpg?f=xxs",
+    "name": "PELARBOJ",
+    "description": "Lámpara mesa",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/antifoni-lampara-flexo-trabajo-niquelado__0609291_pe684429_s5.jpg?f=xxs",
+    "name": "ANTIFONI",
+    "description": "Lámpara flexo de trabajo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/uppvind-lampara-pie-niquelado-blanco__0957613_pe805083_s5.jpg?f=xxs",
+    "name": "UPPVIND",
+    "description": "Lámpara de pie",
+    "price": 99.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ankarspel-lampara-techo-efecto-peltre__1067383_pe852700_s5.jpg?f=xxs",
+    "name": "ANKARSPEL",
+    "description": "Lámpara de techo",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/upplyst-lampara-pared-flor-lila__0716262_pe730768_s5.jpg?f=xxs",
+    "name": "UPPLYST",
+    "description": "Lámpara pared",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-guirnalda-luminosa-led-12-luces-energia-solar-exterior-rojo-raya__1029693_pe836009_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Guirnalda luminosa LED 12 luces",
+    "price": 15
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kryssmast-pie-lampara-mesa-niquelado__0716080_pe730693_s5.jpg?f=xxs",
+    "name": "KRYSSMAST",
+    "description": "Pie de lámpara de mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ankarspel-lampara-flexo-trabajo-efecto-peltre__1130984_pe877967_s5.jpg?f=xxs",
+    "name": "ANKARSPEL",
+    "description": "Lámpara flexo de trabajo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/solvinden-lampara-techo-solar-led-exterior-globo-rojo-estrella__1029641_pe835945_s5.jpg?f=xxs",
+    "name": "SOLVINDEN",
+    "description": "Lámpara techo solar LED",
+    "price": 9
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kasttag-guirnalda-luminosa-led-24-luces-negro-exterior__1169216_pe892380_s5.jpg?f=xxs",
+    "name": "KASTTÅG",
+    "description": "Guirnalda luminosa LED 24 luces",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-beige__1268814_pe928839_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 64.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-gris-oscuro__1169704_pe892528_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 58.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/sunneby-tradfri-lampara-techo-bombilla-negro-inteligente-blanco-calido__1204967_pe906883_s5.jpg?f=xxs",
+    "name": "SUNNEBY / TRÅDFRI",
+    "description": "Lámpara techo + bombilla",
+    "price": 17.98
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/strala-lampara-techo-led-pilas-forma-anillo__1090136_pe861841_s5.jpg?f=xxs",
+    "name": "STRÅLA",
+    "description": "Lámpara techo LED",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/backfrane-lampara-techo-exterior-negro__1169396_pe892425_s5.jpg?f=xxs",
+    "name": "BÄCKFRÄNE",
+    "description": "Lámpara de techo",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/frojda-guirnalda-led-40-bombillas-pilas-mini-estrella__1090399_pe862045_s5.jpg?f=xxs",
+    "name": "FRÖJDA",
+    "description": "Guirnalda LED 40 bombillas",
+    "price": 7.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kasttag-guirnalda-luminosa-led-12-luces-negro-exterior__1169214_pe892381_s5.jpg?f=xxs",
+    "name": "KASTTÅG",
+    "description": "Guirnalda luminosa LED 12 luces",
+    "price": 34.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/spetsboj-lampara-mesa-regulacion-intensidad-luminosa-verde__1355495_pe953147_s5.jpg?f=xxs",
+    "name": "SPETSBOJ",
+    "description": "Lámpara de mesa",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/blasverk-lampara-mesa-rojo__1326179_pe944581_s5.jpg?f=xxs",
+    "name": "BLÅSVERK",
+    "description": "Lámpara de mesa",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/backnate-lampara-mesa-blanco__1346436_pe950928_s5.jpg?f=xxs",
+    "name": "BÄCKNATE",
+    "description": "Lámpara de mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/modermoln-lampara-flexo-trabajo-cromado__1162169_pe889667_s5.jpg?f=xxs",
+    "name": "MODERMOLN",
+    "description": "Lámpara flexo de trabajo",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/zebrasav-lampara-techo-blanco-plastico__1286742_pe933703_s5.jpg?f=xxs",
+    "name": "ZEBRASÄV",
+    "description": "Lámpara de techo",
+    "price": 3.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/mudderverk-lampara-techo-laton-blanco-opalo-vidrio__1353360_pe952221_s5.jpg?f=xxs",
+    "name": "MUDDERVERK",
+    "description": "Lámpara de techo",
+    "price": 39.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tallbyn-lampara-techo-niquelado-blanco-opalo-vidrio__0781838_pe760957_s5.jpg?f=xxs",
+    "name": "TÄLLBYN",
+    "description": "Lámpara de techo",
+    "price": 69.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ytlage-lampara-techo-blanco__1248107_pe923610_s5.jpg?f=xxs",
+    "name": "YTLÄGE",
+    "description": "Lámpara de techo",
+    "price": 24.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/rodflik-lampara-escritorio-verde-grisaceo__1327045_pe944344_s5.jpg?f=xxs",
+    "name": "RÖDFLIK",
+    "description": "Lámpara de escritorio",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/rodflik-lampara-techo-verde-grisaceo__1327085_pe944358_s5.jpg?f=xxs",
+    "name": "RÖDFLIK",
+    "description": "Lámpara de techo",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ranarp-lampara-techo-negro__0633173_pe695758_s5.jpg?f=xxs",
+    "name": "RANARP",
+    "description": "Lámpara de techo",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/brummig-lampara-mesa-motivo-bosque__1076724_pe856832_s5.jpg?f=xxs",
+    "name": "BRUMMIG",
+    "description": "Lámpara mesa",
+    "price": 19.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kloving-lampara-pie-antracita__1341867_pe948915_s5.jpg?f=xxs",
+    "name": "KLÖVING",
+    "description": "Lámpara de pie",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-beige__1169453_pe892460_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 98.94
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-gris-oscuro__1169665_pe892521_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 118.93
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-blanco__1169676_pe892522_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 118.93
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-gris-oscuro__1169696_pe892525_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 57.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-beige__1169682_pe892524_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 57.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-beige__1169703_pe892527_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 58.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-blanco__1169709_pe892531_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 80.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-beige__1169708_pe892530_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 80.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-gris-oscuro__1169454_pe892461_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 63.95
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-blanco__1171013_pe892976_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 119.93
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-blanco__1169446_pe892459_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 64.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-beige__1169617_pe892506_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 118.93
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-gris-oscuro__1268846_pe928844_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 119.93
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-beige__1171006_pe892974_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 79.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-gris-oscuro__1170913_pe892951_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 119.94
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-beige__1268842_pe928843_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 119.93
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-blanco__1169702_pe892526_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 57.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/blankfyr-lampara-pie-niquelado__1342648_pe949079_s5.jpg?f=xxs",
+    "name": "BLÄNKFYR",
+    "description": "Lámpara de pie",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-gris-oscuro__1268847_pe928845_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 80.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-blanco__1169707_pe892529_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 58.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-beige__1169460_pe892462_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 137.91
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/obegransad-lampara-trabajo-regulacion-intensidad-luminosa-negro__1115514_pe872113_s5.jpg?f=xxs",
+    "name": "OBEGRÄNSAD",
+    "description": "Lámpara trabajo",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-beige__1170970_pe892971_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 84.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-blanco__1268826_pe928841_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 92.95
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-beige__1170910_pe892950_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 119.94
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-beige__1268825_pe928840_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 92.95
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-blanco__1170954_pe892968_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 97.95
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-blanco__1170997_pe892973_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 84.96
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/oversidan-tradfri-kit-iluminacion-gris-oscuro__1170916_pe892952_s5.jpg?f=xxs",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "description": "Kit iluminación",
+    "price": 92.95
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tvarhand-lampara-mesa-negro-bambu__1027181_pe834780_s5.jpg?f=xxs",
+    "name": "TVÄRHAND",
+    "description": "Lámpara de mesa",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/lampan-lampara-mesa-blanco__0459937_pe606395_s5.jpg?f=xxs",
+    "name": "LAMPAN",
+    "description": "Lámpara de mesa",
+    "price": 4.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tertial-lampara-flexo-trabajo-blanco__0609308_pe684439_s5.jpg?f=xxs",
+    "name": "TERTIAL",
+    "description": "Lámpara flexo de trabajo",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/lauters-lampara-pie-fresno-blanco__0663863_pe712536_s5.jpg?f=xxs",
+    "name": "LAUTERS",
+    "description": "Lámpara de pie",
+    "price": 59.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/okensand-lampara-pie-haya-blanco__1187892_pe899535_s5.jpg?f=xxs",
+    "name": "ÖKENSAND",
+    "description": "Lámpara de pie",
+    "price": 29.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/melodi-lampara-techo-blanco__0545277_pe655373_s5.jpg?f=xxs",
+    "name": "MELODI",
+    "description": "Lámpara de techo",
+    "price": 4.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/tertial-lampara-flexo-trabajo-gris-oscuro__0609306_pe684440_s5.jpg?f=xxs",
+    "name": "TERTIAL",
+    "description": "Lámpara flexo de trabajo",
+    "price": 9.99
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kappeland-hemma-lampara-techo-ratan-blanco__1200470_pe904979_s5.jpg?f=xxs",
+    "name": "KAPPELAND / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 34.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/kappeland-hemma-lampara-techo-ratan-negro__1200471_pe904980_s5.jpg?f=xxs",
+    "name": "KAPPELAND / HEMMA",
+    "description": "Lámpara de techo",
+    "price": 34.49
+  },
+  {
+    "image": "https://www.ikea.com/es/es/images/products/ikea-ps-2014-lampara-techo-blanco__0613030_pe686121_s5.jpg?f=xxs",
+    "name": "IKEA PS 2014",
+    "description": "Lámpara de techo",
+    "price": 39.99
+  }
+]
